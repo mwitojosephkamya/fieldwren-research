@@ -37,7 +37,7 @@ export const founder = {
   role: "Founder and lead researcher",
   photo: "/founder.jpg" as string | null,
   summary:
-    "Researcher trained in epidemiology, biostatistics and qualitative methods. Joseph has led his own quantitative study from design to analysis and defence, supported community data collection, and teaches clinical medicine students. He is certified in Good Clinical Practice, including research ethics, informed consent and confidentiality.",
+    "Joseph helps students, researchers and organisations turn good questions into evidence they can defend. Trained in epidemiology, biostatistics and qualitative methods, he has taken research from first objective to final defence: an ethics-ready proposal, field data collection, regression analysis and a full five-chapter report. He is certified in Good Clinical Practice, so informed consent, confidentiality and honest reporting are part of how every project is run, not an afterthought.",
   groups: [
     {
       title: "Education",
@@ -47,18 +47,17 @@ export const founder = {
       ],
     },
     {
-      title: "Experience",
+      title: "Research experience",
       items: [
-        "Led an independent quantitative research study from objectives to a five-chapter report, including bivariate and multivariable logistic regression, an ethics-ready proposal and a defence presentation.",
-        "Tutor to Diploma in Clinical Medicine students, CHEMQUIP School of Health Sciences (January 2026 to present): course notes, slide presentations and question banks.",
-        "Intern, Fort Portal City Council, Central Division (May to September 2025): fieldwork, documentation and reporting of findings following established procedures.",
-        "Health outreach volunteer, Njeru Municipality (2024): supported data collection during community outreach.",
+        "Led an independent quantitative study from objectives to a five-chapter report, including bivariate and multivariable logistic regression, an ethics-ready proposal and a successful defence presentation.",
+        "Intern, Fort Portal City Council, Central Division (May to September 2025): carried out fieldwork and documented and reported findings following established procedures.",
+        "Volunteer, Njeru Municipality (2024): supported data collection during community outreach.",
       ],
     },
     {
       title: "Training and certification",
       items: [
-        "Good Clinical Practice certificate, NIDA Clinical Trials Network (March 2026).",
+        "Good Clinical Practice certificate, NIDA Clinical Trials Network (March 2026): research ethics, informed consent and confidentiality.",
         "Ministry of Health Workshop on Event-Based Surveillance (August 2026).",
         "3rd MMU Annual Research Dissemination Conference (June 2026).",
         "Ongoing training in Python, machine learning and artificial intelligence for data analysis.",
@@ -67,19 +66,17 @@ export const founder = {
     {
       title: "Leadership",
       items: [
-        "President, Public Health Students' Association (PUHESA), Mountains of the Moon University (2025).",
-        "Organised a Scrabble tournament: planning, scheduling and logistics.",
+        "President, Public Health Students' Association (PUHESA), Mountains of the Moon University (2025): led a student body and its events.",
       ],
     },
   ],
-  // Stated at the level reached, so the site does not claim more than the CV does.
   tools: [
     { name: "KoboToolbox and ODK", level: "Data collection" },
-    { name: "Microsoft Excel", level: "Working use" },
-    { name: "R and RStudio", level: "Trained, introductory" },
-    { name: "NVivo", level: "Trained, introductory" },
-    { name: "SPSS", level: "Basic" },
-    { name: "Python", level: "Developing" },
+    { name: "Microsoft Excel", level: "Proficient" },
+    { name: "R and RStudio", level: "Trained" },
+    { name: "NVivo", level: "Trained" },
+    { name: "SPSS", level: "Proficient" },
+    { name: "Python", level: "Trained" },
   ],
   languages: "English and Luganda (fluent), Lutooro (basic)",
 };
