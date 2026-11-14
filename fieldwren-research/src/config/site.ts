@@ -60,7 +60,7 @@ export const founder = {
         "Good Clinical Practice certificate, NIDA Clinical Trials Network (March 2026): research ethics, informed consent and confidentiality.",
         "Ministry of Health Workshop on Event-Based Surveillance (August 2026).",
         "3rd MMU Annual Research Dissemination Conference (June 2026).",
-        "Ongoing training in Python, machine learning and artificial intelligence for data analysis.",
+        "Training in Python, machine learning and artificial intelligence for data analysis.",
       ],
     },
     {
