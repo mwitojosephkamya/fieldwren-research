@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_UG",
   },
-    verification: { google: "xOiL8vs3dBEu_I_-FOjXI" },
+    verification: { google: "xOiL8vs3dBEu_I_-FOjXIQeTm_khkqpMd3J83ePXLVw" },
 };
 
 export const viewport: Viewport = { themeColor: "#0a2540" };
