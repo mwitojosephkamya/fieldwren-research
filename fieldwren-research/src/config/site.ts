@@ -42,43 +42,44 @@ export const founder = {
     {
       title: "Education",
       items: [
-        "Bachelor of Environmental Health Science, Mountains of the Moon University, Uganda (2023 to 2026). Programme completed, including the research dissertation; awaiting graduation.",
-        "Short course in Epidemiology, Biostatistics and Qualitative Research, Mountains of the Moon University with Ghent University (2025).",
+        "Bachelor of Environmental Health Science, Mountains of the Moon University, Uganda.",
+        "Short course in Epidemiology, Biostatistics and Qualitative Research, Mountains of the Moon University with Ghent University.",
       ],
     },
     {
       title: "Research experience",
       items: [
         "Led an independent quantitative study from objectives to a five-chapter report, including bivariate and multivariable logistic regression, an ethics-ready proposal and a successful defence presentation.",
-        "Intern, Fort Portal City Council, Central Division (May to September 2025): carried out fieldwork and documented and reported findings following established procedures.",
-        "Volunteer, Njeru Municipality (2024): supported data collection during community outreach.",
+        "Intern, Fort Portal City Council, Central Division: carried out fieldwork and documented and reported findings following established procedures.",
+        "Volunteer, Njeru Municipality: supported data collection during community outreach.",
       ],
     },
     {
       title: "Training and certification",
       items: [
-        "Good Clinical Practice certificate, NIDA Clinical Trials Network (March 2026): research ethics, informed consent and confidentiality.",
-        "Ministry of Health Workshop on Event-Based Surveillance (August 2026).",
-        "3rd MMU Annual Research Dissemination Conference (June 2026).",
+        "Good Clinical Practice certificate, NIDA Clinical Trials Network: research ethics, informed consent and confidentiality.",
+        "Ministry of Health Workshop on Event-Based Surveillance.",
+        "3rd MMU Annual Research Dissemination Conference.",
+        "Training in R, NVivo for data analysis.",
         "Training in Python, machine learning and artificial intelligence for data analysis.",
       ],
     },
     {
       title: "Leadership",
       items: [
-        "President, Public Health Students' Association (PUHESA), Mountains of the Moon University (2025): led a student body and its events.",
+        "President, Public Health Students' Association (PUHESA), Mountains of the Moon University: led a student body and its events.",
       ],
     },
   ],
   tools: [
-    { name: "KoboToolbox and ODK", level: "Data collection" },
+    { name: "KoboToolbox and ODK", level: "Development and Data collection" },
     { name: "Microsoft Excel", level: "Proficient" },
-    { name: "R and RStudio", level: "Trained" },
-    { name: "NVivo", level: "Trained" },
+    { name: "R and RStudio", level: "Proficient" },
+    { name: "NVivo", level: "Proficient" },
     { name: "SPSS", level: "Proficient" },
-    { name: "Python", level: "Trained" },
+    { name: "Python", level: "Proficient" },
   ],
-  languages: "English and Luganda (fluent), Lutooro (basic)",
+  languages: "English and Luganda (fluent), Lutooro (basic), Latin (reading and writing)",
 };
 
 export type Price = { service: string; price: string; note?: string };
